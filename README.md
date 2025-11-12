@@ -77,8 +77,7 @@ Compile o storybook e exporte em formato PDF, vídeo ou site interativo.
 
 Criadora
 
-Beatriz Soares Gomes
-Estudante de Engenharia de Software | Criadora do projeto Storybook IA
+Beatriz Soares Gomes | Estudante de Engenharia de Software | Criadora do projeto Storybook IA
 
 
 
